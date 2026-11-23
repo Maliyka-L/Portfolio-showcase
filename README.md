@@ -62,14 +62,14 @@ A cloud security posture tool that audits a live Microsoft Azure subscription fo
 |:---:|:---|:---|
 | 1 | ThreatHunter SIEM | ✅ Complete |
 | 2 | [Cloud Posture Auditor](https://github.com/Maliyka-L/Cloud_Posture_Auditor) (Azure) | ✅ Complete |
-| 3 | SentinelSandbox | 📋 Planned |
-| 4 | Malware Genome | 📋 Planned |
-| 5 | SecureCode AI | 📋 Planned |
-| 6 | Incident Investigator | 📋 Planned |
-| 7 | Network Threat Mapper | 🔨 In progress |
+| 3 | Network Threat Mapper | 🔨 In progress |
+| 4 | Incident Investigator | 📋 Planned |
+| 5 | SentinelSandbox | 📋 Planned |
+| 6 | AttackForge | 📋 Planned |
+| 7 | Malware Genome | 📋 Planned |
 | 8 | ZeroTrust Hub | 📋 Planned |
 | 9 | RiskLens | 📋 Planned |
-| 10 | AttackForge | 📋 Planned |
+| 10 | SecureCode AI | 📋 Planned |
 
 ---
 
