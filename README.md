@@ -58,18 +58,20 @@ A cloud security posture tool that audits a live Microsoft Azure subscription fo
 
 ## 🗺️ Portfolio Roadmap
 
-| # | Project | Status |
-|:---:|:---|:---|
-| 1 | ThreatHunter SIEM | ✅ Complete |
-| 2 | [Cloud Posture Auditor](https://github.com/Maliyka-L/Cloud_Posture_Auditor) (Azure) | ✅ Complete |
-| 3 | Network Threat Mapper | 🔨 In progress |
-| 4 | Incident Investigator | 📋 Planned |
-| 5 | SentinelSandbox | 📋 Planned |
-| 6 | AttackForge | 📋 Planned |
-| 7 | Malware Genome | 📋 Planned |
-| 8 | ZeroTrust Hub | 📋 Planned |
-| 9 | RiskLens | 📋 Planned |
-| 10 | SecureCode AI | 📋 Planned |
+Each project covers a different area of cyber security, so together they show the full picture: detecting attacks, investigating them, simulating them and managing risk.
+
+| # | Project | Link | Area of Cyber Security | Status |
+|:---:|:---|:---|:---|:---|
+| 1 | ThreatHunter SIEM | [ThreatHunter_SIEM](https://github.com/Maliyka-L/ThreatHunter_SIEM) | Security Operations (SOC) | ✅ Complete |
+| 2 | Cloud Posture Auditor | [Cloud_Posture_Auditor](https://github.com/Maliyka-L/Cloud_Posture_Auditor) | Cloud Security | ✅ Complete |
+| 3 | Network Threat Mapper | | Network Security | 🔨 In progress |
+| 4 | Incident Investigator | | Incident Response and Digital Forensics | 📋 Planned |
+| 5 | SentinelSandbox | | Detection Engineering | 📋 Planned |
+| 6 | AttackForge | | Offensive Security (Red Team) | 📋 Planned |
+| 7 | Malware Genome | | Malware Analysis | 📋 Planned |
+| 8 | ZeroTrust Hub | | Identity and Access Management | 📋 Planned |
+| 9 | RiskLens | | Governance, Risk and Compliance (GRC) | 📋 Planned |
+| 10 | SecureCode AI | | Application Security | 📋 Planned |
 
 ---
 
